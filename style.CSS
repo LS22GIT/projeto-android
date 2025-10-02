@@ -50,7 +50,7 @@ header p{
     max-width: 500px;
     margin: auto;
     margin-top: 30px;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     font-size: 3m;
 }
 header>nav a{
